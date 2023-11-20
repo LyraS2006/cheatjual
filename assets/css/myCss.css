@@ -1,0 +1,12 @@
+#hero {
+    min-height: 100vh;
+    background: url("../img/bg-1.jpg");
+    object-fit: cover;
+    background-position: center;
+}
+
+#hero h2,
+#hero h1 {
+    color: rgba(255, 255, 255);
+    text-shadow: 1px 1px 0px black;
+}
